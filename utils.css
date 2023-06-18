@@ -1,0 +1,46 @@
+.text-center {
+    text-align: center;
+  }
+  
+  .bg-red {
+    background: rgb(0, 255, 234);
+  }
+  
+  .mx-auto {
+    margin: auto;
+  }
+  
+  .flex {
+    display: flex;
+  }
+  
+  .flex-col {
+    flex-direction: column;
+  }
+  
+  .items-center {
+    align-items: center;
+  }
+  
+  .row {
+    margin: 8px 0;
+    display: flex;
+    justify-content: center; /* Align buttons horizontally in the center */
+  }
+  
+  .row input {
+    font-size: 8px 0;
+    margin: 0;
+    padding: 10px 33px;
+    border: 2px solid black;
+    border-radius: 5px;
+  }
+  
+  .button {
+    padding: 20px;
+    width:63px;
+    margin: 0 3px;
+    border: 2px solid black;
+    border-radius: 9px;
+    cursor: pointer;
+  }
